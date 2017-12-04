@@ -1,0 +1,7 @@
+{
+  "version" : "1",
+  "name" : "cliptombstonespawning",
+  "friendlyName" : "Clipchip's tombstone Spawning",
+  "description" : "aa",
+  "requires" : ["Cliptombstone"]
+}

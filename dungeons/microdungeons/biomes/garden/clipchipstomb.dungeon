@@ -1,0 +1,31 @@
+{
+  "metadata" : {
+    "name" : "clipchipstomb",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "clipchipstomb" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : false
+  },
+
+  "parts" : [{
+      "name": "clipchipstomb",
+      "rules": [
+        [
+          "maxSpawnCount",
+          [
+            1
+          ]
+        ]
+      ],
+      "def": [
+        "tmx",
+        "clipchipstomb.json"
+      ]
+    }
+  ]
+}
